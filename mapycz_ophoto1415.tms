@@ -1,0 +1,9 @@
+<TMS>
+ <Title>mapy.cz ophoto1415</Title>
+ <MinZoomLevel>1</MinZoomLevel>
+ <MaxZoomLevel>18</MaxZoomLevel>
+ <Layer idx="0">
+  <ServerUrl>http://mapserver.mapy.cz/ophoto1415-m/%1-%2-%3</ServerUrl>
+ </Layer>
+ <Copyright>© <a href='http://www.seznam.cz' target='_blank'>Seznam.cz, a.s.</a>, © <a href='http://eox.at/' target='_blank'>EOX IT Services GmbH</a>, © <a href='http://www.openstreetmap.org/copyright' target='_blank'>OpenStreetMap</a></Copyright>
+</TMS>

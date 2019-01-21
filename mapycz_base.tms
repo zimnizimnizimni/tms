@@ -1,0 +1,9 @@
+<TMS>
+ <Title>mapy.cz base</Title>
+ <MinZoomLevel>1</MinZoomLevel>
+ <MaxZoomLevel>18</MaxZoomLevel>
+ <Layer idx="0">
+  <ServerUrl>http://mapserver.mapy.cz/base-m/%1-%2-%3</ServerUrl>
+ </Layer>
+ <Copyright>© <a href='http://www.seznam.cz' target='_blank'>Seznam.cz, a.s.</a>, © <a href='http://www.openstreetmap.org/copyright'>OpenStreetMap</a></Copyright>
+</TMS>
